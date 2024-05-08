@@ -5,15 +5,13 @@ WeatherTracker
 
 Hello there, weather enthusiast! 👋 Welcome to Weatherly, your go-to destination for real-time weather updates and forecasts from around the globe. 🌍 Whether you're a curious traveler planning your next adventure or simply want to stay informed about the weather in your local area, you're in the right place!
 
-![Weatherly Logo](https://example.com/weatherly_logo.png)
-
 Sit back, relax, and let Weatherly be your guide to all things weather-related. 📱💻 Our intuitive interface and comprehensive data display ensure that you're always in the know when it comes to temperature, humidity, wind speed, and more. 🌡️💨 Plus, with our dynamic search functionality, you can easily look up weather information for any city with just a few clicks.
 
 To get started, simply enter the name of your city in the search bar above and let Weatherly do the rest! 🕵️‍♂️⌨️ Whether it's sunny skies or impending storms, we've got you covered.
 
 Now, sit back, relax, and enjoy exploring the world of weather with Weatherly! ☀️🌧️🌈
 
-![Welcome to Weatherly GIF](https://media.giphy.com/media/ZqlvCTNHpqrio/giphy.gif)
+![Weatherly Logo](https://example.com/weatherly_logo.png)
 
 
 # 🌤️ **Abstract:**
