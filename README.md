@@ -5,7 +5,7 @@ WeatherTracker
 
 Hello there, weather enthusiast! 👋 Welcome to Weatherly, your go-to destination for real-time weather updates and forecasts from around the globe. 🌍 Whether you're a curious traveler planning your next adventure or simply want to stay informed about the weather in your local area, you're in the right place!
 
-![Weatherly Logo](https://www.behance.net/gallery/104990647/Weatherly-3D-icons-50-weather-icons/modules/617335635)
+![Weather News App](https://th.bing.com/th/id/OIP.A5FAhhgU3mfZpRSY0kpSBwHaHa?pid=ImgDet&w=176&h=176&c=7&dpr=1.5)
 
 Sit back, relax, and let Weatherly be your guide to all things weather-related. 📱💻 Our intuitive interface and comprehensive data display ensure that you're always in the know when it comes to temperature, humidity, wind speed, and more. 🌡️💨 Plus, with our dynamic search functionality, you can easily look up weather information for any city with just a few clicks.
 
@@ -53,7 +53,6 @@ Additionally, an internet connection is required for fetching real-time weather 
 #  🏁 **Conclusion:**
 The Weather News App GitHub repository offers a simple yet effective solution for checking real-time weather updates. With its intuitive user interface and comprehensive weather data display, it provides users with valuable insights to plan their activities accordingly. Whether you're a traveler, commuter, or weather enthusiast, this app serves as a reliable companion for staying informed about the weather conditions worldwide.
 
-![Weather News App](https://th.bing.com/th/id/OIP.A5FAhhgU3mfZpRSY0kpSBwHaHa?pid=ImgDet&w=176&h=176&c=7&dpr=1.5)
 
 *For a visual representation of the Weather News App in action.
 
