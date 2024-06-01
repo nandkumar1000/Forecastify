@@ -29,7 +29,7 @@ let cityname= document.querySelector(".weather_city");
             console.log(formatter);
             return formatter.format(curDate);
         };
-        let city="samastipur";
+        let city="Patna";
         w_citySearch.addEventListener('submit',(e)=>{
             e.preventDefault();
            let cityname=document.querySelector(".city_name");
